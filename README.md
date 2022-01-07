@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+
+플로터 학습용 test앱
+
+
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
