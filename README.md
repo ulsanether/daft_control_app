@@ -3,7 +3,7 @@
 A new Flutter project.
 
 
-플로터 학습용 test앱
+플러터 학습용 test앱
 
 
 
