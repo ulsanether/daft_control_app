@@ -21,7 +21,6 @@ class Myapp extends StatelessWidget {
 
 class FirstWidget extends StatelessWidget {
   //스카폴드 객체 위젯
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
